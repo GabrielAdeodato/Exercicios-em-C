@@ -1,1 +1,1 @@
-# Todos-exerc-cios-em-C-do-segundo-semestre
+Exercicios em C
